@@ -1,10 +1,10 @@
 export const siteConfig = {
   name: "Century·孙邱月",
-  title: "2026届·成都大学·网络与新媒体",
+  title: "14708066448",
   description: "Portfolio website of Ryan Fitzgerald",
   accentColor: "#1d4ed8",
   social: {
-    email: "century0327@qq.com",
+    email: "centurynewb@gmail.com",
     linkedin: "https://linkedin.com/in/yourprofile",
     twitter: "https://x.com/rfitzio",
     github: "https://github.com/Century0327",
