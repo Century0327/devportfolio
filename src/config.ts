@@ -1,6 +1,6 @@
 export const siteConfig = {
-  name: "孙邱月（Century）",
-  title: "文学创作者",
+  name: "Century·孙邱月",
+  title: "2026届·成都大学·网络与新媒体",
   description: "Portfolio website of Ryan Fitzgerald",
   accentColor: "#1d4ed8",
   social: {
