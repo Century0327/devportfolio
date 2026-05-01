@@ -10,15 +10,15 @@ export const siteConfig = {
     github: "https://github.com/Century0327",
   },
   aboutMe:
-    "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Rem quos asperiores nihil consequatur tempore cupiditate architecto natus commodi corrupti quas quasi facere est, dignissimos odit nam veniam sapiente ut, vitae eligendi ipsum dolor, nostrum ullam impedit! Corrupti ratione mollitia temporibus necessitatibus, consectetur reiciendis recusandae id, dolorum quaerat, vero pariatur. Ratione!",
+    "成都大学 2026 届网络与新媒体专业。我是一名深耕于文字与新媒体领域的创作者，擅长将创意策划与 AIGC 技术结合。拥有澎湃新闻视频编辑与数据标注实习经验，曾在‘元境杯’全国大赛中斩获一等奖。我追求细节的极致把控，热衷于用数据可视化与视觉设计讲述动人的故事。",
   skills: ["写作", "摄影", "绘画", "编曲", "AIGC", "office"],
   projects: [
     {
-      name: "AI Dev Roundup Newsletter",
+      name: "“元境杯”全国一等奖项目",
       description:
-        "One concise email. Five minutes. Every Tuesday. Essential AI news & trends, production-ready libraries, powerful AI tools, and real-world code examples",
-      link: "https://aidevroundup.com/?ref=devportfolio",
-      skills: ["React", "Node.js", "AWS"],
+        "2023年蓝桥杯大赛‘元境杯’获奖作品。通过创意策划与技术结合，实现数字空间的艺术表达。",
+      link: "https://dasai.lanqiao.cn/dasai-front/cert-list/?searchType=1&name=%E5%AD%99%E9%82%B1%E6%9C%88&card=510104200403270062",
+      skills: ["视频", "3D", "创意"],
     },
     {
       name: "Chrome Extension Mastery: Build Full-Stack Extensions with React & Node.js",
